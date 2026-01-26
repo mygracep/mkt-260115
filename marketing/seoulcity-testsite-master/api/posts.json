@@ -1,0 +1,649 @@
+[
+  {
+    "id": "P000001",
+    "title": "[4급] 노로바이러스 감염증(장관감염증) 정보",
+    "dept": "시민건강국 - 감염병관리과",
+    "modified_date": "2026-01-16",
+    "category": "기타",
+    "summary": "[4급] 노로바이러스 감염증(장관감염증) 정보",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000001",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576396"
+  },
+  {
+    "id": "P000002",
+    "title": "`공공기여` 도시안전 인프라 투입…서울시, 노후 하수도 정비에 우선 활용한다",
+    "dept": "도시공간본부 - 도시계획과",
+    "modified_date": "2026-01-16",
+    "category": "교통/안전",
+    "summary": "`공공기여` 도시안전 인프라 투입…서울시, 노후 하수도 정비에 우선 활용한다",
+    "tags": [
+      "안전"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000002",
+    "original_url": "https://news.seoul.go.kr/citybuild/archives/530758"
+  },
+  {
+    "id": "P000003",
+    "title": "수변활력거점과 함께하는 건강 5대장 챌린지!!",
+    "dept": "물순환안전국 - 수변감성도시과",
+    "modified_date": "2026-01-16",
+    "category": "기타",
+    "summary": "수변활력거점과 함께하는 건강 5대장 챌린지!!",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000003",
+    "original_url": "https://news.seoul.go.kr/env/archives/566999"
+  },
+  {
+    "id": "P000004",
+    "title": "서울특별시 현업공무원 지정기준(2026.1.1.)",
+    "dept": "행정국 - 인사과",
+    "modified_date": "2026-01-16",
+    "category": "기타",
+    "summary": "서울특별시 현업공무원 지정기준(2026.1.1.)",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000004",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574513"
+  },
+  {
+    "id": "P000005",
+    "title": "2026년 기금운용계획",
+    "dept": "재정기획관 - 재정담당관",
+    "modified_date": "2026-01-16",
+    "category": "행정/공지",
+    "summary": "2026년 기금운용계획",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000005",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574509"
+  },
+  {
+    "id": "P000018",
+    "title": "자동차세, 미리 내고 5% 절감! 감세 혜택 놓치지 마세요!",
+    "dept": "재무국 - 세무과",
+    "modified_date": "2026-01-16",
+    "category": "기타",
+    "summary": "자동차세, 미리 내고 5% 절감! 감세 혜택 놓치지 마세요!",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000018",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574407"
+  },
+  {
+    "id": "P000049",
+    "title": "서울기술이야기(2026년 1월호)입니다.",
+    "dept": "건설기술정책관 - 기술심사담당관",
+    "modified_date": "2026-01-16",
+    "category": "기타",
+    "summary": "서울기술이야기(2026년 1월호)입니다.",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000049",
+    "original_url": "https://news.seoul.go.kr/citybuild/archives/530645"
+  },
+  {
+    "id": "P000006",
+    "title": "2025년 하반기 정년·명예퇴직자 격려금 집행내역",
+    "dept": "행정국 - 인사과",
+    "modified_date": "2026-01-15",
+    "category": "기타",
+    "summary": "2025년 하반기 정년·명예퇴직자 격려금 집행내역",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000006",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574484"
+  },
+  {
+    "id": "P000007",
+    "title": "하늘공원에서 철새의 쉼터로 남겨둔 금빛 억새물결을 만나보세요",
+    "dept": "서부공원여가센터 - 환경녹지과",
+    "modified_date": "2026-01-15",
+    "category": "기타",
+    "summary": "하늘공원에서 철새의 쉼터로 남겨둔 금빛 억새물결을 만나보세요",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000007",
+    "original_url": "https://news.seoul.go.kr/env/archives/567014"
+  },
+  {
+    "id": "P000008",
+    "title": "직원 63％ 생성형 AI 활용…효율성 제고 성과로 AI 행정 지원 확대",
+    "dept": "디지털도시국 - 디지털정책과",
+    "modified_date": "2026-01-15",
+    "category": "복지/지원",
+    "summary": "직원 63％ 생성형 AI 활용…효율성 제고 성과로 AI 행정 지원 확대",
+    "tags": [
+      "지원"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000008",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574496"
+  },
+  {
+    "id": "P000009",
+    "title": "2026년 공기업하수도특별회계 예산서",
+    "dept": "재정기획관 - 예산담당관",
+    "modified_date": "2026-01-15",
+    "category": "기타",
+    "summary": "2026년 공기업하수도특별회계 예산서",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000009",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574489"
+  },
+  {
+    "id": "P000010",
+    "title": "AI 시대, 대체 불가능한 당신의 기술을 보여주세요! '2026년 서울특별시 기능경기대회' 참가자 모집",
+    "dept": "일자리정책과 - 고용훈련팀",
+    "modified_date": "2026-01-15",
+    "category": "행정/공지",
+    "summary": "AI 시대, 대체 불가능한 당신의 기술을 보여주세요! '2026년 서울특별시 기능경기대회' 참가자 모집",
+    "tags": [
+      "모집"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000010",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570556"
+  },
+  {
+    "id": "P000011",
+    "title": "2025년 공공하수도 관리대행 성과평가 결과 공고",
+    "dept": "물순환안전국 - 물재생시설과",
+    "modified_date": "2026-01-15",
+    "category": "행정/공지",
+    "summary": "2025년 공공하수도 관리대행 성과평가 결과 공고",
+    "tags": [
+      "공고"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000011",
+    "original_url": "https://news.seoul.go.kr/env/archives/566979"
+  },
+  {
+    "id": "P000015",
+    "title": "나주시 농특산물 온라인 쇼핑몰「나주몰」설명절 기획전 안내",
+    "dept": "행정국 - 대외협력과",
+    "modified_date": "2026-01-15",
+    "category": "행정/공지",
+    "summary": "나주시 농특산물 온라인 쇼핑몰「나주몰」설명절 기획전 안내",
+    "tags": [
+      "안내"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000015",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574413"
+  },
+  {
+    "id": "P000016",
+    "title": "수소차 모빌리티 선도도시 속도 붙인다…서울시, 수소차 3백 대 보조금",
+    "dept": "기후환경본부 - 친환경차량과",
+    "modified_date": "2026-01-15",
+    "category": "기타",
+    "summary": "수소차 모빌리티 선도도시 속도 붙인다…서울시, 수소차 3백 대 보조금",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000016",
+    "original_url": "https://news.seoul.go.kr/env/archives/566989"
+  },
+  {
+    "id": "P000012",
+    "title": "소비자종합지원 누리집 「소비자24」 개편",
+    "dept": "민생노동국 - 공정경제과",
+    "modified_date": "2026-01-14",
+    "category": "복지/지원",
+    "summary": "소비자종합지원 누리집 「소비자24」 개편",
+    "tags": [
+      "지원",
+      "개편",
+      "소비"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000012",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570553"
+  },
+  {
+    "id": "P000013",
+    "title": "공정거래정책자문단 위촉 및 자문회의 개최",
+    "dept": "민생노동국 - 공정경제과",
+    "modified_date": "2026-01-14",
+    "category": "생활/소비",
+    "summary": "공정거래정책자문단 위촉 및 자문회의 개최",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000013",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570550"
+  },
+  {
+    "id": "P000014",
+    "title": "(추천명단)(#김포)'사우역 지엔하임' 서울시 장애인 기관추천 특별공급 명단",
+    "dept": "복지기획관 - 장애인자립지원과",
+    "modified_date": "2026-01-14",
+    "category": "복지/지원",
+    "summary": "(추천명단)(#김포)'사우역 지엔하임' 서울시 장애인 기관추천 특별공급 명단",
+    "tags": [
+      "장애"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000014",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576370"
+  },
+  {
+    "id": "P000017",
+    "title": "달리고 쉬는 수변공간… 한강 조망 라이더 쉼터 `고덕천 라운지` 조성",
+    "dept": "디자인정책관 - 도시경관담당관",
+    "modified_date": "2026-01-14",
+    "category": "기타",
+    "summary": "달리고 쉬는 수변공간… 한강 조망 라이더 쉼터 `고덕천 라운지` 조성",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000017",
+    "original_url": "https://news.seoul.go.kr/culture/archives/531423"
+  },
+  {
+    "id": "P000019",
+    "title": "피지컬 AI 시대, 양재와 수서를 잇는 ‘서울형 피지컬 AI 벨트’로 로봇 산업의 미래를 엽니다",
+    "dept": "첨단산업과 - ai산업정책팀",
+    "modified_date": "2026-01-14",
+    "category": "기타",
+    "summary": "피지컬 AI 시대, 양재와 수서를 잇는 ‘서울형 피지컬 AI 벨트’로 로봇 산업의 미래를 엽니다",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000019",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570462"
+  },
+  {
+    "id": "P000020",
+    "title": "2026년 봄편 「서울꿈새김판 」 문안 공모",
+    "dept": "홍보기획관 - 홍보담당관",
+    "modified_date": "2026-01-14",
+    "category": "기타",
+    "summary": "2026년 봄편 「서울꿈새김판 」 문안 공모",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000020",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574291"
+  },
+  {
+    "id": "P000021",
+    "title": "'서울시 평생교육이용권' 지난해 1만9천 명 지원…인생 2막 설계 돕는다",
+    "dept": "평생교육국 - 평생교육과",
+    "modified_date": "2026-01-14",
+    "category": "복지/지원",
+    "summary": "'서울시 평생교육이용권' 지난해 1만9천 명 지원…인생 2막 설계 돕는다",
+    "tags": [
+      "지원"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000021",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576354"
+  },
+  {
+    "id": "P000023",
+    "title": "2026 서울시민기자 모집(1.29.까지)",
+    "dept": "홍보기획관 - 콘텐츠담당관",
+    "modified_date": "2026-01-14",
+    "category": "행정/공지",
+    "summary": "2026 서울시민기자 모집(1.29.까지)",
+    "tags": [
+      "모집"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000023",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574341"
+  },
+  {
+    "id": "P000030",
+    "title": "'어디에 무슨 가게 차릴까' 서울시, 경제흐름 한눈에 보는 시각화 서비스",
+    "dept": "디지털도시국 - 데이터전략과",
+    "modified_date": "2026-01-14",
+    "category": "기타",
+    "summary": "'어디에 무슨 가게 차릴까' 서울시, 경제흐름 한눈에 보는 시각화 서비스",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000030",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574371"
+  },
+  {
+    "id": "P000022",
+    "title": "AI Seoul 2026 글로벌 콘퍼런스 개최",
+    "dept": "창조산업기획관 - 첨단산업과",
+    "modified_date": "2026-01-13",
+    "category": "기타",
+    "summary": "AI Seoul 2026 글로벌 콘퍼런스 개최",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000022",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570429"
+  },
+  {
+    "id": "P000028",
+    "title": "시민주도 기후위기 대응 실천… 2026 녹색서울실천사업 참여단체 모집",
+    "dept": "기후환경본부 - 기후환경정책과",
+    "modified_date": "2026-01-13",
+    "category": "환경/기후",
+    "summary": "시민주도 기후위기 대응 실천… 2026 녹색서울실천사업 참여단체 모집",
+    "tags": [
+      "모집"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000028",
+    "original_url": "https://news.seoul.go.kr/env/archives/566951"
+  },
+  {
+    "id": "P000029",
+    "title": "하수도사용료 다자녀 감면 확대…2자녀 가구도 30％ 감면",
+    "dept": "물순환안전국 - 물재생계획과",
+    "modified_date": "2026-01-13",
+    "category": "기타",
+    "summary": "하수도사용료 다자녀 감면 확대…2자녀 가구도 30％ 감면",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000029",
+    "original_url": "https://news.seoul.go.kr/env/archives/566950"
+  },
+  {
+    "id": "P000043",
+    "title": "2025년 서울시 평화통일안보교육 사업 성과(물) 공유",
+    "dept": "행정국 - 평화기반조성과",
+    "modified_date": "2026-01-13",
+    "category": "교육/학교",
+    "summary": "2025년 서울시 평화통일안보교육 사업 성과(물) 공유",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000043",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574309"
+  },
+  {
+    "id": "P000024",
+    "title": "자치구별 하수악취 저감효과 조사결과('25년 4분기)",
+    "dept": "물순환안전국 - 물재생계획과",
+    "modified_date": "2026-01-12",
+    "category": "기타",
+    "summary": "자치구별 하수악취 저감효과 조사결과('25년 4분기)",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000024",
+    "original_url": "https://news.seoul.go.kr/env/archives/566961"
+  },
+  {
+    "id": "P000025",
+    "title": "카드매출 빅데이터를 통해 본 서울소비경기지수(2025.12.)",
+    "dept": "경제일자리기획관 - 경제정책과",
+    "modified_date": "2026-01-12",
+    "category": "생활/소비",
+    "summary": "카드매출 빅데이터를 통해 본 서울소비경기지수(2025.12.)",
+    "tags": [
+      "소비"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000025",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570418"
+  },
+  {
+    "id": "P000026",
+    "title": "서울경제동향(2025.12)",
+    "dept": "경제일자리기획관 - 경제정책과",
+    "modified_date": "2026-01-12",
+    "category": "기타",
+    "summary": "서울경제동향(2025.12)",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000026",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570410"
+  },
+  {
+    "id": "P000027",
+    "title": "(새소식2026-1)(#영등포구)'더샵 신길센트럴시티' 서울시 장애인 기관추천 특별공급 안내",
+    "dept": "복지기획관 - 장애인자립지원과",
+    "modified_date": "2026-01-12",
+    "category": "복지/지원",
+    "summary": "(새소식2026-1)(#영등포구)'더샵 신길센트럴시티' 서울시 장애인 기관추천 특별공급 안내",
+    "tags": [
+      "안내",
+      "장애"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000027",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576346"
+  },
+  {
+    "id": "P000031",
+    "title": "2025년 지하역사 공기질 측정결과(1~9호선)(서울교통공사)",
+    "dept": "자원회수시설추진단 - 생활환경과",
+    "modified_date": "2026-01-12",
+    "category": "교통/안전",
+    "summary": "2025년 지하역사 공기질 측정결과(1~9호선)(서울교통공사)",
+    "tags": [
+      "교통"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000031",
+    "original_url": "https://news.seoul.go.kr/env/archives/566946"
+  },
+  {
+    "id": "P000032",
+    "title": "시민안전보험 보장 강화한다…전국 최초 '지반침하 사고' 보장",
+    "dept": "재난안전실 - 재난안전정책과",
+    "modified_date": "2026-01-12",
+    "category": "교통/안전",
+    "summary": "시민안전보험 보장 강화한다…전국 최초 '지반침하 사고' 보장",
+    "tags": [
+      "안전"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000032",
+    "original_url": "https://news.seoul.go.kr/safe/archives/517277"
+  },
+  {
+    "id": "P000036",
+    "title": "2026년 동행서울 친환경농장 참여자 모집",
+    "dept": "정원도시국 - 공원여가사업과",
+    "modified_date": "2026-01-12",
+    "category": "환경/기후",
+    "summary": "2026년 동행서울 친환경농장 참여자 모집",
+    "tags": [
+      "모집",
+      "환경"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000036",
+    "original_url": "https://news.seoul.go.kr/env/archives/566883"
+  },
+  {
+    "id": "P000033",
+    "title": "도심 속 트램 안전히 타는 법…서울시, 위례선 노면전차 맞춤형 캠페인",
+    "dept": "교통실 - 도시철도과",
+    "modified_date": "2026-01-09",
+    "category": "교통/안전",
+    "summary": "도심 속 트램 안전히 타는 법…서울시, 위례선 노면전차 맞춤형 캠페인",
+    "tags": [
+      "안전"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000033",
+    "original_url": "https://news.seoul.go.kr/traffic/archives/515926"
+  },
+  {
+    "id": "P000034",
+    "title": "신축공동주택 실내공기질 측정결과 공개(2025년 12월)",
+    "dept": "자원회수시설추진단 - 생활환경과",
+    "modified_date": "2026-01-09",
+    "category": "주거/부동산",
+    "summary": "신축공동주택 실내공기질 측정결과 공개(2025년 12월)",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000034",
+    "original_url": "https://news.seoul.go.kr/env/archives/566869"
+  },
+  {
+    "id": "P000035",
+    "title": "2024년도 한강수계 물이용부담금 운용 백서",
+    "dept": "물순환안전국 - 물재생시설과",
+    "modified_date": "2026-01-09",
+    "category": "기타",
+    "summary": "2024년도 한강수계 물이용부담금 운용 백서",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000035",
+    "original_url": "https://news.seoul.go.kr/env/archives/566923"
+  },
+  {
+    "id": "P000041",
+    "title": "스마트쉼터부터 스크린 파크골프장까지…종각 지하도상가 '체류형 시민공간'으로 변신",
+    "dept": "재난안전실 - 도로시설과",
+    "modified_date": "2026-01-09",
+    "category": "기타",
+    "summary": "스마트쉼터부터 스크린 파크골프장까지…종각 지하도상가 '체류형 시민공간'으로 변신",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000041",
+    "original_url": "https://news.seoul.go.kr/safe/archives/517269"
+  },
+  {
+    "id": "P000048",
+    "title": "2026 서울드럼페스티벌 드럼팬 참가자 모집 공고",
+    "dept": "문화본부 - 문화예술과",
+    "modified_date": "2026-01-09",
+    "category": "행정/공지",
+    "summary": "2026 서울드럼페스티벌 드럼팬 참가자 모집 공고",
+    "tags": [
+      "모집",
+      "공고"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000048",
+    "original_url": "https://news.seoul.go.kr/culture/archives/531375"
+  },
+  {
+    "id": "P000050",
+    "title": "[로컬로서울] 기찻길 따라 걷는 낭만, 경춘선 공릉숲길",
+    "dept": "민생노동국 - 상권활성화과",
+    "modified_date": "2026-01-09",
+    "category": "기타",
+    "summary": "[로컬로서울] 기찻길 따라 걷는 낭만, 경춘선 공릉숲길",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000050",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570213"
+  },
+  {
+    "id": "P000037",
+    "title": "HIV & AIDS(에이즈) 바로알기",
+    "dept": "시민건강국 - 감염병관리과",
+    "modified_date": "2026-01-08",
+    "category": "기타",
+    "summary": "HIV & AIDS(에이즈) 바로알기",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000037",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576328"
+  },
+  {
+    "id": "P000038",
+    "title": "HIV 신속검사",
+    "dept": "시민건강국 - 감염병관리과",
+    "modified_date": "2026-01-08",
+    "category": "기타",
+    "summary": "HIV 신속검사",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000038",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576323"
+  },
+  {
+    "id": "P000039",
+    "title": "성매개감염병 예방수칙",
+    "dept": "시민건강국 - 감염병관리과",
+    "modified_date": "2026-01-08",
+    "category": "기타",
+    "summary": "성매개감염병 예방수칙",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000039",
+    "original_url": "https://news.seoul.go.kr/welfare/archives/576318"
+  },
+  {
+    "id": "P000040",
+    "title": "2026년 고려대학교 캠퍼스타운 입주기업 모집",
+    "dept": "경제일자리기획관 - 대학협력과",
+    "modified_date": "2026-01-08",
+    "category": "교육/학교",
+    "summary": "2026년 고려대학교 캠퍼스타운 입주기업 모집",
+    "tags": [
+      "모집"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000040",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570366"
+  },
+  {
+    "id": "P000042",
+    "title": "노원구 공릉동 대명아파트 소규모재건축사업 미술작품 제작·설치 공모 심의결과 알림",
+    "dept": "디자인정책관 - 디자인산업담당관",
+    "modified_date": "2026-01-08",
+    "category": "행정/공지",
+    "summary": "노원구 공릉동 대명아파트 소규모재건축사업 미술작품 제작·설치 공모 심의결과 알림",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000042",
+    "original_url": "https://news.seoul.go.kr/culture/archives/531394"
+  },
+  {
+    "id": "P000044",
+    "title": "국세·지방세 고민 우리동네 세무 해결사 `마을세무사`가 도와드려요",
+    "dept": "재무국 - 세제과",
+    "modified_date": "2026-01-08",
+    "category": "기타",
+    "summary": "국세·지방세 고민 우리동네 세무 해결사 `마을세무사`가 도와드려요",
+    "tags": [],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000044",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574305"
+  },
+  {
+    "id": "P000045",
+    "title": "AI 시대, '대체되지 않는 기술' 키운다…서울시 기술교육원, 2,004명 모집",
+    "dept": "일자리정책과 - 고용훈련팀",
+    "modified_date": "2026-01-06",
+    "category": "교육/학교",
+    "summary": "AI 시대, '대체되지 않는 기술' 키운다…서울시 기술교육원, 2,004명 모집",
+    "tags": [
+      "모집"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000045",
+    "original_url": "https://news.seoul.go.kr/economy/archives/570211"
+  },
+  {
+    "id": "P000046",
+    "title": "더 촘촘하게, 예비 청년예술가의 힘찬 출발에 손 내민다 <2026 서울 커넥트 스테이지> 오는 26일 개막",
+    "dept": "서울문화재단",
+    "modified_date": "2026-01-06",
+    "category": "청년/일자리",
+    "summary": "더 촘촘하게, 예비 청년예술가의 힘찬 출발에 손 내민다 <2026 서울 커넥트 스테이지> 오는 26일 개막",
+    "tags": [
+      "청년"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000046",
+    "original_url": "https://news.seoul.go.kr/gov/archives/574286"
+  },
+  {
+    "id": "P000047",
+    "title": "1천만이 즐긴 `2025 서울윈터페스타` 대한민국 대표 겨울축제로 키운다",
+    "dept": "문화본부 - 문화정책과",
+    "modified_date": "2026-01-06",
+    "category": "문화/행사",
+    "summary": "1천만이 즐긴 `2025 서울윈터페스타` 대한민국 대표 겨울축제로 키운다",
+    "tags": [
+      "축제"
+    ],
+    "cta_label": "상세 보기",
+    "cta_url": "article.html?id=P000047",
+    "original_url": "https://news.seoul.go.kr/culture/archives/531388"
+  }
+]

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Article</title>
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX'); // <- 교체
+  </script>
+</head>
+
+<body>
+  <header class="header">
+    <div class="wrap row">
+      <a class="link" href="index.html">← 목록</a>
+      <h1 id="title" class="h2"></h1>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="meta">
+      <span id="dept"></span>
+      <span class="dot">•</span>
+      <span id="date"></span>
+      <span class="dot">•</span>
+      <span id="category"></span>
+    </div>
+
+    <article class="card">
+      <p id="summary" class="summary"></p>
+      <div id="tags" class="tags"></div>
+
+      <div class="actions">
+        <button id="cta" class="btn">신청/자세히 보기</button>
+        <button id="share" class="btn secondary">공유</button>
+      </div>
+    </article>
+  </main>
+
+  <script src="js/ga-events.js"></script>
+  <script src="js/article.js"></script>
+</body>
+</html>
